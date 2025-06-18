@@ -4,7 +4,7 @@ const About = () => (
     <h2 className="text-sm text-gray-400 dark:text-gray-600 mb-5 uppercase tracking-widest">About</h2>
     <div className="text-sm text-gray-600 dark:text-gray-300 leading-relaxed">
       <p>
-        loves creating things, technology is a medium for me to bring them to life. AI, web development and data science.
+        loves creating things, technology is a medium for me to bring them to life. ai, web development and data science.
       </p>
     </div>
   </section>

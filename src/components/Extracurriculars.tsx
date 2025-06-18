@@ -1,18 +1,18 @@
 
 const extracurriculars = [
   {
-    activity: "NodeDotAI",
-    role: "President",
+    activity: "nododai",
+    role: "president",
     period: "2024"
   },
   {
-    activity: "TEDxBITBangalore",
-    role: "Social Media Designer",
+    activity: "tedxbitbangalore",
+    role: "social media designer",
     period: "2024"
   },
   {
-    activity: "Google Developer Student Clubs",
-    role: "Hacktoberfest Lead",
+    activity: "google developer student clubs",
+    role: "hacktoberfest lead",
     period: "2023"
   }
 ];

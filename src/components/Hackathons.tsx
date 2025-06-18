@@ -1,18 +1,18 @@
 
 const hackathons = [
   {
-    name: "Hackfest",
-    project: "Digital Twin",
+    name: "hackfest",
+    project: "digital twin",
     year: "2025"
   },
   {
-    name: "Intel AI Hackathon",
-    project: "Trash Track",
+    name: "intel ai hackathon",
+    project: "trash track",
     year: "2024"
   },
   {
-    name: "Hackman",
-    project: "The Tao Of",
+    name: "hackman",
+    project: "the tao of",
     year: "2023"
   }
   

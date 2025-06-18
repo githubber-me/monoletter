@@ -1,8 +1,8 @@
 
 const awards = [
   {
-    name: "Cisco Forecast League Champion",
-    by: "Cisco Systems, Inc.",
+    name: "cisco forecast league champion",
+    by: "cisco systems, inc.",
     year: "2025"
   }
 ];

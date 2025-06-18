@@ -1,7 +1,7 @@
 const education = [
   {
-    degree: "B.E. in Artificial Intelligence and Machine Learning",
-    institution: "Bangalore Institute of Technology",
+    degree: "b.e. in artificial intelligence and machine learning",
+    institution: "bangalore institute of technology",
     year: "2022-2026"
   },
 ];
