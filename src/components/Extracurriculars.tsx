@@ -1,7 +1,7 @@
 
 const extracurriculars = [
   {
-    activity: "nododai",
+    activity: "nodedotdai",
     role: "president",
     period: "2024"
   },
